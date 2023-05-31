@@ -4,9 +4,9 @@
 
 *Funciones que sirven para sumar restar multiplicar numeros
 
-*@author Luke Anthony Underwood
+*@author Luke Skywalker
 
-*@version PHP 7.4.3
+*@version PHP 8.8.8
 
 *@copyright este documento tiene derecho copyright
 
